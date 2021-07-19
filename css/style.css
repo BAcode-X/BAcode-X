@@ -1,0 +1,114 @@
+/* commonly used css */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+
+/*  */
+
+body {
+    /* background-color: #551A8b; */
+    background-color: rgb(36, 35, 35);
+}
+
+ul {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    top: 50vh;
+    cursor: pointer;
+    margin-left: 2em;
+    /* align-items: left; */
+    /* justify-content: left; */
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* position: relative; */
+    margin: 1em;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+ul li a {
+    font-size: 2em;
+    color: #3674a5;
+    text-align: center;
+    transition: all 0.2s ease-in-out;
+}
+
+ul li:hover {
+    color: white;
+    background-color: #3674a5;
+    box-shadow: 0px 0px 3px 5px yellow, 0px 0px 4px 8px #f7f780, 0px 0px 7px 15px #f5f5c8;
+}
+
+ul li a:hover {
+    color: white;
+}
+
+
+/* HOME */
+
+#home {
+    height: 100vh;
+    background-color: rgb(27, 27, 27);
+}
+
+
+/* About */
+
+#about {
+    height: 100vh;
+    background-color: rgb(27, 27, 27);
+}
+
+.decks {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#about .decks .card {
+    height: 30em;
+    width: 20em;
+    padding: -1.2em;
+    background-color: white;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 0.2em;
+    border: 2px solid blue;
+}
+
+#about .decks .card-1 {
+    margin: 1em;
+    transform: rotate(-15deg);
+    margin: 2em -2em;
+}
+
+#about .decks .card-2 {
+    margin: -1em 0em;
+    color: red;
+}
+
+#about .decks .card-3 {
+    margin: 1em;
+    transform: rotate(15deg);
+    margin: 2em -2em;
+}

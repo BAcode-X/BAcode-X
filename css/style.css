@@ -110,6 +110,64 @@ nav ul li a:hover::after {
     align-items: center;
 }
 
+#home .container h1 {
+    color: white;
+    position: absolute;
+    top: 13rem;
+    font-weight: 900;
+    font-size: 2rem;
+    text-shadow: 0 0 2em#00fff9;
+}
+
+#home .container .my-title {
+    display: flex;
+    color: white;
+    position: absolute;
+    top: 45rem;
+    font-size: 2rem;
+}
+
+#home .container .my-title .dynamic-texts {
+    height: 90px;
+    overflow: hidden;
+}
+
+#home .container .my-title ul li {
+    position: relative;
+    color: #00fff9;
+    margin-left: 0.25em;
+    top: 0;
+    animation: slide 6s steps(3) infinite;
+}
+
+@keyframes slide {
+    100% {
+        top: -37rem;
+    }
+}
+
+#home .container .my-title ul li span {
+    position: relative;
+}
+
+#home .container .my-title ul li span::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #182357;
+    border-left: 2px solid #00fff9;
+    animation: typing 1.5s steps(10) infinite;
+}
+
+@keyframes typing {
+    100% {
+        left: 100%;
+        margin: 0 -0.8em 0 0.8em;
+    }
+}
+
 #home .container .loader {
     position: relative;
     width: 400px;

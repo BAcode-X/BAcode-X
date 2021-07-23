@@ -136,7 +136,7 @@ nav ul li a.card-btn.active {
 }
 
 #home .container .my-title .dynamic-texts {
-    height: 90px;
+    height: 70px;
     overflow: hidden;
 }
 
@@ -145,12 +145,13 @@ nav ul li a.card-btn.active {
     color: #00fff9;
     margin-left: 0.25em;
     top: 0;
+    margin-bottom: 2rem;
     animation: slide 6s steps(3) infinite;
 }
 
 @keyframes slide {
     100% {
-        top: -37rem;
+        top: -13rem;
     }
 }
 

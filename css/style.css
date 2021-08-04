@@ -469,6 +469,9 @@ nav ul li a.card-btn.active {
 
 #contact {
     height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 #contact .content {
@@ -482,5 +485,28 @@ nav ul li a.card-btn.active {
     align-self: center;
     border-bottom: 2px solid #00fff9;
     text-transform: uppercase;
-    margin-top: 3rem;
+    margin-top: -15%;
+}
+
+#contact form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    margin-top: 4em;
+    gap: 4em;
+    width: 50%;
+}
+
+#contact form input {
+    font-size: 2em;
+    border-radius: 0.3em;
+    padding: 0.2em 0.3em;
+}
+
+#contact form #message {
+    padding-bottom: 13rem;
+    word-wrap: break-word;
+    overflow: scroll;
 }

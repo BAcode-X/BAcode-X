@@ -1,5 +1,5 @@
 <h1 align="center">I'm Biruk Alamirew</h1>
-<h3 align="center">Python Enthusiastic Developer</h3>
+<h3 align="center">Enthusiastic Python Developer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=BAcode-X&label=Profile%20views&color=0e75b6&style=flat" alt="BAcode-X" /> 

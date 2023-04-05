@@ -15,8 +15,6 @@
 
 => I’m looking to collaborate on **any fun project**
 
-=> I’m looking for help with **javascript**
-
 => All of my projects are available at [https://github.com/BAcode-X](https://github.com/BAcode-X)
 
 => How to reach me **biruk.alamirew77@gmail.com**

@@ -14,12 +14,18 @@
 ![](https://github-readme-stats.vercel.app/api?username=BAcode-X&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BAcode-X&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BAcode-X&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=BAcode-X&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/BAcodeX) 
 
-  
+<br/>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
+<a href="https://github.com/BAcode-X" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -2,7 +2,7 @@
 <h3 align="center">Enthusiastic Python Developer</h3> -->
 
 # 💫 About Me:
-🔭 I’m currently leading/working on a FinTech Project<br>👯 I’m looking to collaborate on any fun or challenging projects
+🔭 I’m currently leading/working on a FinTech Project<br>👯 I’m looking to collaborate on any challenging projects
 
 
 ## 🌐 Socials:
